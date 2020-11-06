@@ -1,4 +1,4 @@
-# Office Hours: Sinatra
+# Sinatra Office Hours
 
 > **Howard DeVennish**  
 > Email: [howard@flatironschool.com](mailto:howard@flatironschool.com)  

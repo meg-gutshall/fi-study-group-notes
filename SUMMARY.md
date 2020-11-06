@@ -1,13 +1,19 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Table of Contents](README.md)
+
+## Redux
+
+* [Redux Office Hours](redux/redux-office-hours.md)
 
 ## React
 
+* [React Office Hours](react/react-office-hours.md)
 * [Intro to React](react/intro-to-react.md)
 
 ## JavaScript
 
+* [JavaScript Office Hours](javascript/office-hours.md)
 * [The DOM Overview](javascript/the-dom-overview.md)
 * [Fetch API](javascript/fetch-api.md)
 * [Scope, Closures, and Composition](javascript/scope-closures-and-composition.md)
@@ -22,9 +28,7 @@
   * [JavaScript Fundamentals: Variables, Scope, & Hoisting](javascript/javascript-fundamentals-series/javascript-fundamentals-variables-scope-and-hoisting.md)
   * [JS Fundamentals: Binding & Closures](javascript/javascript-fundamentals-series/js-fundamentals-binding-and-closures.md)
   * [JS Fundamentals: Iteration](javascript/javascript-fundamentals-series/js-fundamentals-iteration.md)
-* [JavaScript Office Hours](javascript/office-hours.md)
-* [JavaScript Project Support](javascript/javascript-project-support/README.md)
-  * [JavaScript Design Patterns](javascript/javascript-project-support/javascript-design-patterns.md)
+* [JavaScript Design Patterns](javascript/javascript-design-patterns.md)
 * [Object-Oriented JavaScript](javascript/object-oriented-javascript.md)
 * [Object-Oriented JavaScript in a Single Page Application](javascript/object-oriented-javascript-in-a-single-page-application.md)
 * [JavaScript Debugging Deep Dive](javascript/javascript-debugging-deep-dive.md)
@@ -47,6 +51,11 @@
 * [Speeding Up Your Rails App](rails/speeding-up-your-rails-app.md)
 * [Writing Tests](rails/writing-tests.md)
 
+## Sinatra
+
+* [Sinatra Office Hours](sinatra/sinatra-office-hours.md)
+* [Layout File, Corneal Gem, & Debugging](sinatra/layout-file-corneal-gem-and-debugging.md)
+
 ## Front-End
 
 * [Flexbox](front-end/flexbox.md)
@@ -58,24 +67,20 @@
 * [Python for Rubyists](brunch-and-learn/python-for-rubyists.md)
 * [What Baking Can Do \(Abstraction\)](brunch-and-learn/what-baking-can-do-abstraction.md)
 
-## Extracurricular Tools
+## Tools
 
-* [Deploying on Heroku](extracurricular-tools/deploying-on-heroku.md)
-* [GitHub as a Career Differentiator](extracurricular-tools/github-as-a-career-differentiator.md)
-* [WiFi Hacking 101](extracurricular-tools/wifi-hacking-101.md)
-
-## Sinatra
-
-* [Office Hours: Sinatra](sinatra/office-hours-sinatra.md)
-* [Layout File, Corneal Gem, & Debugging](sinatra/layout-file-corneal-gem-and-debugging.md)
+* [Deploying on Heroku](tools/deploying-on-heroku.md)
+* [WiFi Hacking 101](tools/wifi-hacking-101.md)
 
 ## Career
 
-* [Career Coaching AMA](career/career-coaching-ama.md)
 * [How to Structure an Informational Interview or Networking Coffee](career/how-to-structure-an-informational-interview-or-networking-coffee.md)
 * [Building Credibility Through Your Online Brand Presence](career/building-credibility-through-your-online-brand-presence.md)
 * [Value-Added Projects](career/value-added-projects.md)
+* [What Makes a Strong GitHub?](career/what-makes-a-strong-github/README.md)
+  * [GitHub as a Career Differentiator](career/what-makes-a-strong-github/github-as-a-career-differentiator.md)
 * [Deconstructing a Technical Interview Assessment](career/deconstructing-a-technical-interview-assessment.md)
+* [Career Coaching AMA](career/career-coaching-ama.md)
 
 ## Codepanionship
 
@@ -84,7 +89,6 @@
   * [Codepanionship Study Group Ad Post Template: Slack](codepanionship/study-group-templates/ad-post-slack.md)
   * [Codepanionship Study Group Ad Post Template: Twitter](codepanionship/study-group-templates/ad-post-twitter.md)
 * [Codepanionship Study Group Attendance Record](codepanionship/attendance-record.md)
-* [What Makes a Strong GitHub?](codepanionship/what-makes-a-strong-github.md)
 
 ## Code Talk
 
