@@ -49,6 +49,10 @@ const chris = new Person({
 * Break out JavaScript code pertaining to a singular model in a separate JavaScript file
 * In the HTML index head, add model/class JavaScript files first, then controller JavaScript files, then index JavaScript files so code will load in the correct order
 
+## Video
+
+{% embed url="https://www.youtube.com/watch?v=QIZyQHmqlb8&feature=emb\_title" %}
+
 > **Alice Balbuena on 01/29/20**
 
 ## **Pass By Reference vs. Pass By Value Memory**
