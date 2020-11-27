@@ -2,6 +2,8 @@
 
 > **Avi Flombaum on 02/27/20**
 
+{% embed url="https://github.com/learn-co-curriculum/node-promises-async-await-readme" %}
+
 * 15 years ago the web sucked
   * Mainly due to AJAX and Flash
 * `setTimeout` creates a new `Promise`
@@ -18,4 +20,8 @@
 ```
 {% endtab %}
 {% endtabs %}
+
+## Video
+
+{% embed url="https://www.youtube.com/watch?v=66NMDEFvhhQ&feature=emb\_title" %}
 
