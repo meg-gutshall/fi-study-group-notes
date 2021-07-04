@@ -28,7 +28,7 @@
   * Doesn't get hoisted
 * `const` → Scoped at global, function, and block levels
   * Must be assigned a value when it's declared
-    * Value can't be changed after it's been assigned
+    * Value can't be reassigned after it's been declared
   * Doesn't get hoisted
 * `function`
   * Gets hoisted
